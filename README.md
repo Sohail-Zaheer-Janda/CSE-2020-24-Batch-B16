@@ -1,7 +1,10 @@
 # CSE-2020-24-Batch-B16
-# Multi-Layered Security System for Bank Lockers with IOT Integration
+# Voice and Key-Controlled Wheelchair System for Individuals with Disabilities
 # Abstract
 
-Now-a-day’s people are more concern about security of their valuable things. As security towards our valuable things is at most risk because we are using bank as safer place. This project addresses the critical issue of bank locker security by using an innovative system. This project uses biometric data like face, and fingerprints to make sure only authorized people can access bank lockers. ESP32 cameras are used for real-time face detection and tracking. Adding fingerprint scanning adds an extra layer of security by confirming user’s identities. The system is also improved by GSM technology, which can quickly send notifications to authorized users if someone tries to access the locker without permission. By bringing together these technologies, this project provides a complete solution to enhance bank locker security and better protect people's valuable belongings.
+    In today's world, we're concerned about helping people with physical challenges move around more easily. The project is about creating a special wheelchair that can be controlled in two ways: by talking and using a mobile app. Users command the wheelchair through a cellular device, which communicates via Bluetooth to an Arduino-equipped wheelchair.Voice prompts such as "Forward","Back","Left", "Right" and "Stop" initiate corresponding movements. This makes it easier for people to move on their own.
+    To make things even better, a phone app can be developed that works with the wheelchair. This app has buttons you can tap to control the wheelchair like a remote control. The wheelchair is also equipped with ultrasonic sensors. These sensors continuously scan the surroundings for obstacles to avoid a collision.All these features make moving around much easier for people who might have trouble getting around on their own.
 
-Keywords : Face Recognition, Fingerprint Authentication, GSM.
+
+Keywords : Voice Control, Remote Control, Obstacle Detection.
+
